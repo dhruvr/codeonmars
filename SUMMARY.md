@@ -8,5 +8,5 @@
 
 ## OpenWhisk
 
-* Starting with OpenWhisk
+* [Starting with OpenWhisk](openwhisk/starting-with-openwhisk.md)
 
