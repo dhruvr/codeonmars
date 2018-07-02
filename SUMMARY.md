@@ -6,3 +6,7 @@
 
 * [Create Observables](examples-on-rxjs/create-observables.md)
 
+## OpenWhisk
+
+* Starting with OpenWhisk
+
